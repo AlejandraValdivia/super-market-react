@@ -1,9 +1,11 @@
 function BuyButton() {
-    return (
-        <>
-         <button className="buy-button"><a href="#" className="buy-button">Add</a></button>
-        </>  
-    );
+  return (
+    <>
+      <a href="#" className="buy-button">
+        Add to Cart
+      </a>
+    </>
+  );
 }
 
 export default BuyButton;

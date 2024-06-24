@@ -7,7 +7,9 @@ const Deal = ({ image, name, icon, price }) => {
     <div className="deal">
       <img src={image} alt={name} className="deal-image" />
       <h3 className="deal-name">{name}</h3>
-      <BasketIcon />
+      <div className="deal-icon-div">
+        <BasketIcon />
+      </div>
       <BuyButton />
       <p>{icon}</p><p className="deal-price">{price}</p>
     </div>
