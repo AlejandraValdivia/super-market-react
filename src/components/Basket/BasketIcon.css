@@ -1,0 +1,47 @@
+.bx .bxs-basket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #01af63;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.bx .bxs-basket:hover {
+    background-color: #014E37;
+}
+
+.deal-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #01af63;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.deal-icon:hover {
+    background-color: #014E37;
+}
+
+.buy-button {
+    background-color: #01af63;
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+}

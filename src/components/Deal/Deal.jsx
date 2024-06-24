@@ -1,11 +1,15 @@
 import './Deal.css';
+import BasketIcon from '../Basket/BasketIcon';
+import BuyButton from '../BuyButton/BuyButton';
 
-const Deal = ({ image, name, price }) => {
+const Deal = ({ image, name, icon, price }) => {
   return (
     <div className="deal">
       <img src={image} alt={name} className="deal-image" />
       <h3 className="deal-name">{name}</h3>
-      <p className="deal-price">{price}</p>
+      <BasketIcon />
+      <BuyButton />
+      <p>{icon}</p><p className="deal-price">{price}</p>
     </div>
   );
 };
