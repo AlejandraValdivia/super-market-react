@@ -1,0 +1,8 @@
+.deals-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+    gap: 16px;
+    background-color: #014E37;
+  }
