@@ -4,6 +4,14 @@ This is a [React + Vite](https://vitejs.dev/guide/) project.
 
 ## Install
 
+git clone https://github.com/AlejandraValdivia/super-market-react.git
+
+cd super-market-react
+
+## Install dependencies
+
+To install dependencies, run
+
 ```bash
 npm i
 ```
@@ -16,7 +24,6 @@ npm run dev
 
 ## Render
 
-
 Go to http://localhost:5175/ and open http://localhost:5175/ in your browser
 
 ## Author
@@ -25,7 +32,4 @@ Alejandra Valdivia
 
 ## Screenshot
 
-![Screenshot](src/assets/super-market-react-screenshot.png)
-
-
-
+![Screenshot](src/assets/super-market-react-screenshot-v2.png)
