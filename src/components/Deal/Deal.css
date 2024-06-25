@@ -24,7 +24,6 @@
   border-radius: 4px;
   padding: 16px;
   text-align: center;
-  transition: transform 0.2s;
   width: calc(100% - 32px); /* Full width minus margins by default */
 }
 
