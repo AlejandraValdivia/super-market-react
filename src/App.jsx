@@ -1,5 +1,6 @@
 import DealsGallery from "./components/DealsGallery/DealsGallery.jsx";
 import Navbar from "./components/NavMenu/Navbar/Navbar.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 import "./App.css";
 
 function App() {
@@ -10,9 +11,7 @@ function App() {
         <h1>Supermarket Deals</h1>
       </header>
       <DealsGallery />
-      <footer className="App-footer">
-        <a href="https://github.com/AlejandraValdivia"><p>&copy; 2024 Alejandra Valdivia. All rights reserved.</p></a>
-      </footer>
+      <Footer />
     </div>
   );
 }

@@ -7,8 +7,8 @@ const deals = [
     price: "$1.99/lb",
   },
   {
-    image: "https://sandbox-uploads.imgix.net/u/1719191430-c6087294f5e253dd6726c3ee925d2c42?w=600",
-    name: "Watermelons",
+    image: "https://sandbox-uploads.imgix.net/u/1719211296-60b2407ec053b69544451608d2c1f7bd?w=600",
+    name: "Blueberries",
     price: "$3.99/lb",
   },
   {

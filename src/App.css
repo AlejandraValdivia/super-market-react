@@ -5,7 +5,7 @@
   margin: 6rem auto;
   padding: 2rem;
   text-align: center;
-  background-color: #014E37;
+  background-color: rgb(164, 255, 164);
 }
 
 h1 {
@@ -31,16 +31,21 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
+.deals-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+  padding: 40px;
+  background-color: #014E37;
+  border-radius: 4px;
+}
+
 .deal {
     background: #fffaf5;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
-}
-
-.footer {
-  color: black;
-  font-family: 'Raleway', sans-serif;
 }
 
 

@@ -32,4 +32,4 @@ Alejandra Valdivia
 
 ## Screenshot
 
-![Screenshot](src/assets/super-market-react-screenshot-v2.png)
+![Screenshot](src/assets/supermarket-react-app-screenshot.jpg)
