@@ -1,7 +1,7 @@
-const ShoppingCartIcon = () => {
+const ShoppingCartIcon = ({count}) => {
     return (
         <div className="shopping-cart-icon">
-            <a href="#"><box-icon name="cart" type="solid" color="#ffffff"></box-icon></a>
+            <a href="#"><box-icon name="cart" type="solid" color="#ffffff">{count}</box-icon></a>
         </div>
     );
 };

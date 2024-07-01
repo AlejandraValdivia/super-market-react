@@ -1,6 +1,5 @@
 import "./BasketIcon.css";
 
-// Implement the box icon of a basket icon as a component
 function BasketIcon() {
   return (
     <div className="basket-icon">

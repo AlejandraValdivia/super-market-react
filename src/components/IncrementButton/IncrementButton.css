@@ -1,0 +1,10 @@
+.increment-button {
+        background-color: #014e37;
+        color: white;
+        margin: 15px;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+    }

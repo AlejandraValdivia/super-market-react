@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
 
 #root {
   max-width: 1280px;
@@ -10,24 +11,24 @@
 h1 {
   color: black;
   font-size: 40px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 h2 {
   color: black;
   font-size: 30px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 h3 {
   color: black;
   font-size: 20px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 p {
   color: black;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .deals-gallery {
@@ -36,16 +37,13 @@ p {
   justify-content: space-around;
   margin: 20px;
   padding: 40px;
-  background-color: #014E37;
+  background-color: #014e37;
   border-radius: 4px;
 }
 
 .deal {
-    background: #fffaf5;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
+  background: #fffaf5;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
 }
-
-
-  
